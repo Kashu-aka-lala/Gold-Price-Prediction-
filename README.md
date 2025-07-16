@@ -27,6 +27,9 @@ This project predicts future gold prices using a deep learning model (LSTM) trai
 └── requirements.txt # Dependencies
 
 
+
+
+
 🧠 Author
 Malik Kashif Farooq
 
