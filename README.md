@@ -32,9 +32,6 @@ This project predicts future gold prices using a deep learning model (LSTM) trai
 
 🧠 Author
 Malik Kashif Farooq
-
 🎓 BS Artificial Intelligence — NUML
-
 🔗 https://www.linkedin.com/in/malikkashiffarooq/
-
 📧 malikkashifkhan000@gmail.com
