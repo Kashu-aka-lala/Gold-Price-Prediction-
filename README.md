@@ -17,12 +17,13 @@ This project predicts future gold prices using a deep learning model (LSTM) trai
 
 ## 📂 Project Structure
 ├── app.py # Streamlit web interface
+|
 ├── main.py # LSTM model training script
-
+|
 ├── gold_price_lstm_model.h5 # Saved trained model
-
+|
 ├── Gold Price (2013-2023).csv # Historical dataset
-
+|
 └── requirements.txt # Dependencies
 
 
